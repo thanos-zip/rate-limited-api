@@ -1,3 +1,6 @@
+> ⚠️ This repo is a starting point, not a solution. 
+> You will get stuck. That's the point. Google is your best friend.
+
 # REST API with Rate Limiting
 
 > Build a public REST API with authentication, full documentation and abuse protection using Redis.
